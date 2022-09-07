@@ -12,6 +12,7 @@ https://github.com/arielroque/GoF-Patterns.git
 ## Design Patterns
 
 ### Creational patterns
+- [Singleton](./creational_patterns/singleton/)
 
 ### Structural patterns
 
